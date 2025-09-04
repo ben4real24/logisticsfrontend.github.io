@@ -1,0 +1,33 @@
+A fully responsive frontend design for a logistics and shipping company website.
+This project showcases modern UI design, responsive layouts, and interactive features across multiple pages.
+project/
+│── index.html        # Home page (with navigation menu)
+│── shipping.html     # Shipping services page
+│── tracking.html     # Package tracking page
+│── contact.html      # Contact/Support page
+│── location.html     # Locations information page
+│── login.html        # Login page
+│── style.css         # Shared stylesheet
+│── images/           # Images used in the site
+│── README.md         # Project documentation
+Features
+
+📱 Responsive Design — Works on desktop, tablet, and mobile
+
+🧭 Navigation Menu — Available only on the home page
+
+🔍 Search Popup — Toggleable search bar
+
+🖼️ Rotating Hero Images — Dynamic homepage banner
+
+📦 Shipping & Tracking Pages — Showcasing logistics workflow
+
+☎️ Contact Page — Includes support details
+
+📍 Location Page — Displays Google Maps integration
+
+🔑 Login Page — Clean frontend login design
+
+📝 Shared CSS — Centralized styling for all pages
+
+© Footer — 2025 copyright
